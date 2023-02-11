@@ -1,4 +1,4 @@
-#LARAVEL_DOCKER
+# LARAVEL_DOCKER
 
 Write a dockerfile for the laravel app (the one from last semester's exam)
 write a docker compose file for the services involved in the laravel
